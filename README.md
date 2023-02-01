@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-My name is **Fahmi Noordin Rumagutawan**. I am currently studying on Brawijaya University, majoring on Cumputer Science.
+My name is **Fahmi Noordin Rumagutawan**. I am currently studying on Brawijaya University and majoring on Cumputer Science.
 
 Here are some ideas to get you started:
 
