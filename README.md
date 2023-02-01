@@ -1,7 +1,6 @@
+
 ### Hi there 👋
-
-
-**fahmirumagutawan/fahmirumagutawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Fahmi Noordin Rumagutawan**. I am currently studying on Brawijaya University, majoring on Cumputer Science.
 
 Here are some ideas to get you started:
 
@@ -9,3 +8,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android Development
 - ⚡ Fun fact: "Android" is my middle name LOL. just kidding hahaha
 
+### Github Stats
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=fahmirumagutawan)](https://github.com/fahmirumagutawan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmirumagutawan&layout=compact)](https://github.com/fahmirumagutawan)
+
+### Contact me
+
+ - Linkedin : [Fahmi Noordin Rumagutawan](https://www.linkedin.com/in/fahmi-noordin-rumagutawan-0b506521b/)
+ - Email : fahmigutawan@gmail.com
+ - Whatsapp : +6281-553-993-193
