@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: "Android" is my middle name LOL. just kidding hahaha
 
 ### Github Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=fahmirumagutawan)](https://github.com/fahmirumagutawan)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmirumagutawan&layout=compact)](https://github.com/fahmirumagutawan)
 
 ### Contact me
