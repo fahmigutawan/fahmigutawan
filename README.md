@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: "Android" is my middle name LOL. just kidding hahaha
 
 ### Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fahmigutawan)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fahmigutawan?cardType=level-alternate&theme=cobalt&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ### Contact me
 
