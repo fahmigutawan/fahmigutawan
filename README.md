@@ -5,8 +5,8 @@ My name is **Fahmi Noordin Rumagutawan**. I am currently studying on Brawijaya U
 Here are some ideas to get you started:
 
 - 🌱 I’m currently mastering my skills on Flutter and Jetpack Compose
-- 👯 I’m looking to collaborate on Android Development
-- ⚡ Fun fact: "Android" is my middle name LOL. just kidding hahaha
+- 👯 I’m looking for collaborative friends on Android Development
+- ⚡ Fun fact: "Android" is my middle name LOL. Naaah, just kidding hahaha
 
 ### Github Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fahmigutawan?cardType=level-alternate&theme=cobalt&preferLogin=false)](https://git.io/awesome-stats-card)
